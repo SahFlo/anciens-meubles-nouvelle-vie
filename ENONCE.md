@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Formation Ada Tech School - projet pour travailler le back et le front - 10 jours de travail effectif - Conception d'une plateforme de vente de meubles en ligne. Ce README est l'énoncé de l'exercice.
+Formation Ada Tech School - projet pour travailler le back et le front - 8 jours de travail effectif - Conception d'une plateforme de vente de meubles en ligne. Ce README est l'énoncé de l'exercice.
 
 Une plateforme de gestion d’un magasin de meubles est souvent un site web, sur lequel des utilisateurs s’inscrivent et interagissent avec le stock. Il y a différents types d’utilisateurs qui par conséquent ont des droits différents.
 
@@ -59,9 +59,13 @@ Comme dans le projet Réseau Social, vous recueillerez le consentement de vos ut
 
 Si vous n’avez pas fait l’exercice individuel de la semaine dernière ou si vous cherchez juste un peu plus d’inspiration, voici des maquettes pour vous aider. Elles sont très sommaires et non exhaustives mais cela peut vous donner une base.
 
-- **Page d’accueil :**
-- **Détail d’un produit :**
-- **Page de gestion des produits :**
+- **Page d'accueil :**  
+![Page d'accueil](assets/images/maquette-accueil.png)
+- **Détail d’un produit :**  
+![Page d'accueil](assets/images\maquette-page-produit.png)
+- **Page de gestion des produits :**  
+![Page d'accueil](assets/images\maquette-page-gestion-produits.png)
+
 
 🔍 **Point de vigilance d’accessibilité**
 

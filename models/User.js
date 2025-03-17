@@ -10,7 +10,7 @@ const User = sequelize.define('User', {
   
   // L'email de l'utilisateur
   email: {
-    type: DataTypes.STRING,        // C'est un texte
+    type: DataTypes.STRING(191),        // C'est un texte
     allowNull: false,              // Il est obligatoire
     unique: true,                  // Il doit être unique
     validate: {

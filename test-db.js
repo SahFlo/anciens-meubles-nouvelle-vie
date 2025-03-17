@@ -9,7 +9,7 @@ async function testInsert() {
 
         // Insérer un utilisateur
         const newUser = await User.create({
-            email: 'testbug@example.com',
+            email: 'testbug2@example.com',
             password: 'hashedpassword'
         });
 
